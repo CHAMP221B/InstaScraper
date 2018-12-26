@@ -1,0 +1,9 @@
+lxml
+selenium
+bs4
+requests
+fake_useragent
+shutil
+xlsxwriter
+xlrd
+flask
